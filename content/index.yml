@@ -1,0 +1,45 @@
+title: 'Unproprietary Corporation legal'
+description: Legal documents for Unproprietary Corporation!
+navigation: false
+hero:
+  title: 'Unproprietary Corporation'
+  description: 'Legal documents for Unproprietary Corporation managed services'
+  orientation: horizontal
+  links:
+    - label: Get started
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '/getting-started'
+      size: lg
+
+features:
+  title: 'Documents'
+  links:
+    - label: 'View all document history on Github'
+      icon: 'i-simple-icons-github'
+      trailingIcon: 'i-heroicons-arrow-right-20-solid'
+      color: 'gray'
+      to: 'https://github.com/un/legal'
+      target: '_blank'
+      size: lg
+  items:
+    - title: 'Terms and Conditions'
+      description: 'Powered by Nuxt 3 for optimal performances and SEO.'
+      icon: 'i-mdi-gavel'
+      to: 'https://nuxt.com'
+      target: '_blank'
+    - title: 'Privacy Policy'
+      description: 'Write your pages with MDC thanks to Nuxt Content.'
+      icon: 'i-mdi-eye'
+      to: 'https://content.nuxt.com'
+      target: '_blank'
+    - title: 'Cookie Policy'
+      description: 'Offers a very large set of full customizable components.'
+      icon: 'i-mdi-cookie'
+      to: 'https://ui.nuxt.com'
+      target: '_blank'
+    - title: 'Data Processing Addendum'
+      description: 'A fully typed development experience.'
+      icon: 'i-mdi-server'
+      to: 'https://www.typescriptlang.org'
+      target: '_blank'
