@@ -6,10 +6,15 @@ hero:
   description: 'Legal documents for Unproprietary Corporation managed services'
   orientation: horizontal
   links:
-    - label: Get started
+    - label: Terms & Conditions
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
-      to: '/getting-started'
+      to: '/uninbox/terms'
+      size: lg
+    - label: Privacy Policy
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '/uninbox/terms'
       size: lg
 
 features:
@@ -23,23 +28,3 @@ features:
       target: '_blank'
       size: lg
   items:
-    - title: 'Terms and Conditions'
-      description: 'Powered by Nuxt 3 for optimal performances and SEO.'
-      icon: 'i-mdi-gavel'
-      to: 'https://nuxt.com'
-      target: '_blank'
-    - title: 'Privacy Policy'
-      description: 'Write your pages with MDC thanks to Nuxt Content.'
-      icon: 'i-mdi-eye'
-      to: 'https://content.nuxt.com'
-      target: '_blank'
-    - title: 'Cookie Policy'
-      description: 'Offers a very large set of full customizable components.'
-      icon: 'i-mdi-cookie'
-      to: 'https://ui.nuxt.com'
-      target: '_blank'
-    - title: 'Data Processing Addendum'
-      description: 'A fully typed development experience.'
-      icon: 'i-mdi-server'
-      to: 'https://www.typescriptlang.org'
-      target: '_blank'
