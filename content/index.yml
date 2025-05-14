@@ -6,15 +6,25 @@ hero:
   description: 'Legal documents for Unproprietary Corporation managed services'
   orientation: horizontal
   links:
-    - label: Terms & Conditions
+    - label: 'UnInbox: Terms & Conditions'
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
       to: '/uninbox/terms'
       size: lg
-    - label: Privacy Policy
+    - label: 'UnInbox: Privacy Policy'
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
-      to: '/uninbox/terms'
+      to: '/uninbox/privacy'
+      size: lg
+    - label: 'Potential Health: Terms & Conditions'
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '/potential/terms'
+      size: lg
+    - label: 'Potential Health: Privacy Policy'
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '/potential/privacy'
       size: lg
 
 features:
