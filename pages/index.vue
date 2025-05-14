@@ -66,7 +66,7 @@
         <template
           v-for="(domain, index) in domains"
           :key="index">
-          <div class="rounded-md bg-gray-800 px-2 py-1">
+          <div class="rounded-md bg-gray-800 text-white px-2 py-1">
             <span class="font-mono">
               {{ domain }}
             </span>
