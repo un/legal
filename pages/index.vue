@@ -60,9 +60,11 @@
         domains:
       </span>
       <div class="flex flex-row flex-wrap gap-4">
+          <div class="rounded-md bg-gray-800 text-white px-2 py-1">
             <span class="font-mono">
               Potential Health Mobile App
             </span>
+          </div>
         <template
           v-for="(domain, index) in domains"
           :key="index">
