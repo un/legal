@@ -138,7 +138,7 @@ export default defineNuxtSchema({
         links: field({
           type: 'array',
           title: 'Links',
-          description: 'Array of link object displayed in header.',
+          description: 'Array of link objects displayed in header.',
           icon: 'i-mdi-link-variant',
           default: []
         })
@@ -166,7 +166,7 @@ export default defineNuxtSchema({
         links: field({
           type: 'array',
           title: 'Links',
-          description: 'Array of link object displayed in footer.',
+          description: 'Array of link objects displayed in footer.',
           icon: 'i-mdi-link-variant',
           default: []
         })
@@ -206,7 +206,7 @@ export default defineNuxtSchema({
             links: field({
               type: 'array',
               title: 'Links',
-              description: 'Array of link object displayed in bottom toc.',
+              description: 'Array of link objects displayed in bottom toc.',
               icon: 'i-mdi-link-variant',
               default: []
             })
